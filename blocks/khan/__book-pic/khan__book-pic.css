@@ -1,0 +1,10 @@
+.khan__book-pic-crop {
+    width: 608px;
+    height: 620px;
+    overflow: hidden;
+}
+
+.khan__book-pic {
+    width: 100%;
+    height: auto;
+}
